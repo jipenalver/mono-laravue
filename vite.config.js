@@ -23,7 +23,7 @@ export default defineConfig({
         },
     },
     server: {
-        // host: "appetiser.test",
+        host: "mono-laravue.test",
         port: 3000,
     },
 });
